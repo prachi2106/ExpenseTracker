@@ -1,0 +1,11 @@
+{
+    "git.enabled": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.defaultFormatter": "SimonSiefke.prettier-vscode",
+    "git.path": "C:\\Users\\cw\\Git\\mingw64\\libexec\\git-core",
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    }
+}
